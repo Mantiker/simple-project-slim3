@@ -1,0 +1,8 @@
+/.idea
+
+/vendor
+
+/logs/*
+!/logs/.gitignore
+
+/configs/settings.php
